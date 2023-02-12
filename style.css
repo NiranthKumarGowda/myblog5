@@ -1,0 +1,18 @@
+#contact iframe
+{
+    width: 100%;
+}
+.Travel_maindiv{
+border:1px solid black; 
+}
+.Travel_maindiv img{
+    width:100%;
+}
+.movie_head{
+    padding:10px;
+    border-radius:25px;
+    margin-bottom:10px;
+}
+.movie_head i{
+    float:right;
+}
